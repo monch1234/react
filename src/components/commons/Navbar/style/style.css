@@ -1,0 +1,32 @@
+.nav{
+  display: flex;
+  justify-content: center;
+  margin-right: 75px;
+}
+
+.navbar{
+  display: flex;
+  justify-content: center;
+  font-size: 14px;
+}
+
+.navbar li {
+  color: #38D6BA;
+  margin:0px 25px 0px 25px;
+  list-style-type: none;
+}
+
+.navbar_childres{
+  text-decoration: none;
+  color: black;
+}
+
+.navbar_childres:hover{
+  color: #38D6BA;
+  transition: 0.2s;
+}
+
+.navbar_childres_1{
+  text-decoration: none;
+  color: #38D6BA ;
+}

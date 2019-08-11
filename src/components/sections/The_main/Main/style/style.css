@@ -1,0 +1,41 @@
+main{
+  width: 80%;
+  margin: auto;
+  display: flex;
+}
+
+.emilia_coul{
+  text-decoration: none;
+  color: black;
+}
+
+.emilia{
+    position: relative;
+    letter-spacing: 0.1em;
+    margin-top: 100px;
+}
+
+.text_by_emilia{
+  position: absolute;
+  left: -25px;
+  font-size: 45px;
+  margin:0px;
+}
+
+
+.text_h2{
+  margin: 0px;
+  background-color: white;
+}
+
+.text{
+  width: 100%;
+}
+
+.text_1{
+  width: 90%;
+}
+
+.text_2{
+  width: 80%;
+}
